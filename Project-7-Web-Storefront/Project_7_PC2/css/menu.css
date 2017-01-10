@@ -1,0 +1,23 @@
+fieldset.title {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+fieldset.menubar {
+  margin: auto;
+  width: 450px;
+}
+li.footer {
+color: rgb(0, 0, 0);
+
+}
+a {
+  margin-right: 3%;
+  margin-left: 3%;
+
+}
+a.line {
+  border-right: solid 1px black;
+  padding-right: 6%
+
+}
