@@ -1,0 +1,63 @@
+fieldset.title {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+fieldset.menubar {
+  margin: auto;
+  width: 350px;
+}
+fieldset.footerbar{
+  margin: auto;
+  width: 500px;
+}
+#thanksgiving {
+  width: 1100px;
+  margin-left: 20%;
+  height: 450px;
+}
+
+a {
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+.line {
+  border-right: solid 1px black;
+  padding-right: 20px;
+
+}
+.line2 {
+  margin-right: 10px;
+  margin-left: 10px;
+  border-right: solid 1px black;
+  padding-right: 20px;
+}
+
+#homeimagesright {
+  width: 400px;
+  height: 350px;
+  padding-right: 300px;
+  padding-bottom: 75px;
+}
+
+#homeimagesleft {
+  width: 400px;
+  height: 350px;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-bottom: 75px;
+}
+
+fieldset.aboutus {
+  text-align: center;
+}
+
+h3.contactus {
+  text-align: center;
+}
+
+input.email {
+  width: 50em;
+  height:10em;
+}
