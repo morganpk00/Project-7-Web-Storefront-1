@@ -12,9 +12,8 @@ fieldset.footerbar{
   width: 500px;
 }
 #thanksgiving {
-  width: 1100px;
-  margin-left: 20%;
-  height: 450px;
+  margin-left: 28%;
+  border: 2px solid rgb(0, 0, 0);
 }
 
 a {
@@ -35,20 +34,20 @@ a {
 }
 
 #homeimagesright {
-  width: 400px;
-  height: 350px;
+  width: 200px;
+  height: 325px;
   padding-right: 300px;
   padding-bottom: 75px;
 }
 
 #homeimagesleft {
-  width: 400px;
-  height: 350px;
-  padding-left: 350px;
+  width: 200px;
+  height: 325px;
+  padding-left: 550px;
   padding-right: 350px;
   padding-bottom: 75px;
 }
 
 html {
-  background-color: #dda6a1;
+  background-color: rgb(255, 255, 255);
 }
