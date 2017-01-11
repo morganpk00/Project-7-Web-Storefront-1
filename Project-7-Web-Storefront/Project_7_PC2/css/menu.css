@@ -5,19 +5,46 @@ fieldset.title {
 }
 fieldset.menubar {
   margin: auto;
-  width: 450px;
+  width: 350px;
 }
-li.footer {
-color: rgb(0, 0, 0);
+fieldset.footerbar{
+  margin: auto;
+  width: 500px;
+}
+#thanksgiving {
+  width: 1100px;
+  margin-left: 20%;
+  height: 450px;
+}
 
-}
 a {
-  margin-right: 3%;
-  margin-left: 3%;
+  margin-right: 10px;
+  margin-left: 10px;
 
 }
-a.line {
+.line {
   border-right: solid 1px black;
-  padding-right: 6%
+  padding-right: 20px;
 
+}
+.line2 {
+  margin-right: 10px;
+  margin-left: 10px;
+  border-right: solid 1px black;
+  padding-right: 20px;
+}
+
+#homeimagesright {
+  width: 400px;
+  height: 350px;
+  padding-right: 300px;
+  padding-bottom: 75px;
+}
+
+#homeimagesleft {
+  width: 400px;
+  height: 350px;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-bottom: 75px;
 }
